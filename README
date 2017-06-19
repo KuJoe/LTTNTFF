@@ -1,0 +1,17 @@
+LinusTechTips Night Theme Font Fixer by KuJoe (JMD.cc)
+Fixes font colors for LTT Night Theme 2.0 (forces default font color) for both Google Chrome and Microsoft Edge
+
+1.0 -	Initial release
+
+//Chrome Installation:
+1) Download and unzip on your PC.
+2) Open Chrome, click the three dots (top right) -> More tools -> Extensions
+3) Click "Load unpacked extension...", then navigate to the unzipped folder and click "OK".
+*You may need to reload your browser for the extension to take effect.
+
+//Edge Installation:
+1) Download and unzip on your PC.
+2) "Enable extension developer features" using this guide: https://docs.microsoft.com/en-us/microsoft-edge/extensions/guides/adding-and-removing-extensions
+2) Open Edge, click the three dots (top right) -> Extensions
+3) Click "Load Extension", then navigate to the unzipped folder and click "Select Folder".
+*You may need to reload your browser for the extension to take effect.
