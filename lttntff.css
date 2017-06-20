@@ -4,3 +4,9 @@
 .cPost_contentWrap [data-role="commentContent"] font {
 	color: #ADCCCC !important;
 }
+.cPost_contentWrap [data-role="commentContent"] span {
+	color: #ADCCCC !important;
+}
+.cPost_contentWrap [data-role="commentContent"] a {
+	color: #ADCCCC !important;
+}

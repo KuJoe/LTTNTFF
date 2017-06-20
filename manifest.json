@@ -3,7 +3,7 @@
     "author": "KuJoe",
     "description": "Fixes font colors for LTT Night Theme 2.0 (forces default font color)",
     "name": "KuJoe's LinusTechTips Night Theme Font Fixer",
-    "version": "1.0",
+    "version": "1.1",
 	"icons": { 	"16": "icon16.png",
 				"48": "icon48.png",
 				"128": "icon128.png" },
